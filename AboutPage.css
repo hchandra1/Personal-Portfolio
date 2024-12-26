@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+  }
+  
+  img {
+    border: 5px solid #333;
+  }
+  
+  a:hover {
+    opacity: 0.8;
+  }
+  
